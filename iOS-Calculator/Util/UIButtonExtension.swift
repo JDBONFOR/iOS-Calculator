@@ -8,6 +8,9 @@
 
 import UIKit
 
+private let orangeColor = UIColor(red: 254/255, green: 148/255, blue: 0/255, alpha: 1)
+
+
 extension UIButton {
     // Funcion encargada de agregar bordes redondos a un boton.
     func round() {
@@ -25,5 +28,11 @@ extension UIButton {
                 self.alpha = 1
             }
         }
+    }
+    
+    // Apariencia seleccion boton de operacion
+    func selectOperation(_ selected: Bool) {
+        backgroundColor = selected ? .white : orangeColor
+        setTitleColor( selected ? orangeColor : .white, for: .normal)
     }
 }
