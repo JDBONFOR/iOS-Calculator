@@ -9,3 +9,4 @@ La app será compatible con iOS10 en adelante.
 ## Detalles
 1. Configuracion del proyecto para compatibilidad con iOS10
 2. Estructura de archivos
+3. Edicion de AppDelegate, inicializacion de .XIB custom e instanciando UIWindow.
