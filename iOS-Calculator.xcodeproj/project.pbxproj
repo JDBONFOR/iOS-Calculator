@@ -152,8 +152,8 @@
 		0E19BD8D24CDAB7B001B0F62 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				0E19BD9124CDAC27001B0F62 /* Home */,
 				0E19BD9024CDABB2001B0F62 /* Launch */,
+				0E19BD9124CDAC27001B0F62 /* Home */,
 			);
 			path = View;
 			sourceTree = "<group>";

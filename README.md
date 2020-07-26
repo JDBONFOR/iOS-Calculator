@@ -10,3 +10,6 @@ La app será compatible con iOS10 en adelante.
 1. Configuracion del proyecto para compatibilidad con iOS10
 2. Estructura de archivos
 3. Edicion de AppDelegate, inicializacion de .XIB custom e instanciando UIWindow.
+4. Cambio en colores de fondo, para simular la Calculadora iOS original
+5. Añadiendo StackView Horizontal y Vertital
+6. Añadiendo botones a los Stacks
