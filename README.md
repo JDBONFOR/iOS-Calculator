@@ -13,3 +13,4 @@ La app será compatible con iOS10 en adelante.
 4. Cambio en colores de fondo, para simular la Calculadora iOS original
 5. Añadiendo StackView Horizontal y Vertital
 6. Añadiendo botones a los Stacks
+7. Estilos en botones
